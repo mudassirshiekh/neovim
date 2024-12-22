@@ -21,6 +21,7 @@ See the [Introduction](https://github.com/neovim/neovim/wiki/Introduction) wiki 
 for more information.
 
 Features
+## By Mudassir Alam
 --------
 
 - Modern [GUIs](https://github.com/neovim/neovim/wiki/Related-projects#gui)
